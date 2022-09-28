@@ -12,7 +12,7 @@
 
 <p align="center">
   <a>
-    <img src="Sticker_ (9).png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/YoungKlaus/Stickers/main/img/Sticker_%20(9).png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">北京理工大学自动请假</h3>
