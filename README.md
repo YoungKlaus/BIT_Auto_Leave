@@ -4,16 +4,15 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Forks][![Forkers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/forks/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/network/members)
+[![Stargazers][![Stargazers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/stars/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/stargazers)
 
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
   <a>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Sticker_ (9).png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">北京理工大学自动请假</h3>
