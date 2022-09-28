@@ -27,7 +27,7 @@
 </p>
 
 
-部署此repo后，每日于北京时间（23:30）自动销假请假，请假理由均为“前往国防科技园”，如有定制化理由，请fork后自行修改BIT_leave.py文件下的qj_data变量，审批制和报备制均可使用。
+部署此repo后，每日于北京时间（23:30）自动销假请假，每次请假1天（明天），请假理由均为“前往国防科技园”，如有定制化理由，请fork后自行修改BIT_leave.py文件下的qj_data变量，审批制和报备制均可使用。
 
 ## 使用步骤
 1. star 本项目
@@ -36,7 +36,7 @@
 
 3. 去 Actions 那 Enable Workflow
 
-4. 进入自己 fork 的仓库，点击 Settings -> Secrets -> New repository secret，它们将作为配置项，在应用启动时传入程序。
+4. 进入自己 fork 的仓库，点击 Settings -> Secrets -> Action -> New repository secret，依次填入以下所有环境变量（如Name为USERNAME，其Secret为1120210123），它们将作为配置项，在应用启动时传入程序。
 
 **所有的可用 Secrets 及说明**
 
