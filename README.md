@@ -1,5 +1,34 @@
-# BIT_Auto_Leave
-北京理工大学自动请假
+# BIT自动请假
+
+百丽宫自动请假脚本
+
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
+<!-- PROJECT LOGO -->
+<br />
+
+<p align="center">
+  <a>
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">北京理工大学自动请假</h3>
+  <p align="center">
+    每日定时（23:30）销假请假
+    <br />
+    <a href="https://github.com/quzard/SEU_Auto_Leave"><strong>本项目修改自SEU_Auto_Leave »</strong></a>
+    <br />
+    <br />
+  </p>
+
+</p>
+
+
+部署此repo后，每日于北京时间（23:30）自动销假请假，请假理由均为“前往国防科技园”，如有定制化理由，请fork后自行修改BIT_leave.py文件下的qj_data变量，审批制和报备制均可使用。
 
 ## 使用步骤
 1. star 本项目
