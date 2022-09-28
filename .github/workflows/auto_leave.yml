@@ -1,5 +1,6 @@
 name: BIT Auto Leave
 on:
+  workflow_dispatch:
   schedule:
     - cron: '30 15 * * *'
     # cron表达式，时区是UTC时间，比我们早8小时，如上所表示的是每天UTC时间的22点05分整， 北京时间的06点05分（24小时制）
