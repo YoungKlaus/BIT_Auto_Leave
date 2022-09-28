@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
     res = session.post(url=login_url, headers=headers, data=personal_info)
     res.encoding = 'utf-8'
-    if re.search("裘宇康", res.text):
+    if re.search("姓名", res.text):
         print('登陆成功')
     else:
         print('登录失败')
