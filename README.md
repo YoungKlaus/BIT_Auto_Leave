@@ -4,8 +4,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Forks][![Forkers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/forks/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/network/members)
-[![Stargazers][![Stargazers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/stars/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/stargazers)
+[![Forkers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/forks/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/network/members)
+[![Stargazers repo roster for @YoungKlaus/BIT_Auto_Leave](https://reporoster.com/stars/YoungKlaus/BIT_Auto_Leave)](https://github.com/YoungKlaus/BIT_Auto_Leave/stargazers)
 
 <!-- PROJECT LOGO -->
 <br />
