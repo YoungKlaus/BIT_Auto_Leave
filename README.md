@@ -17,7 +17,7 @@
 
   <h3 align="center">北京理工大学自动请假</h3>
   <p align="center">
-    每日定时（23:30）销假请假
+    每日定时（23:00左右）销假请假
     <br />
     <a href="https://github.com/quzard/SEU_Auto_Leave"><strong>本项目修改自SEU_Auto_Leave »</strong></a>
     <br />
@@ -27,7 +27,7 @@
 </p>
 
 
-部署此repo后，每日于北京时间（23:00）自动销假请假，每次请假1天（明天），请假理由均为“前往国防科技园”，如有定制化理由，请fork后自行修改BIT_leave.py文件下的qj_data变量，审批制和报备制均可使用。
+部署此repo后，每日于北京时间（23:00左右）自动销假请假，每次请假1天（明天），请假理由均为“前往国防科技园”，如有定制化理由，请fork后自行修改BIT_leave.py文件下的qj_data变量，审批制和报备制均可使用。
 
 ## 使用步骤
 1. star 本项目
