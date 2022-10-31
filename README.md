@@ -47,3 +47,8 @@
 | TELEPHONE  | 联系电话（请假最后一栏需要）                                                   |
 
 4. 如果需要修改上报时间，修改 `.github/workflows/auto_leave.yml`
+
+---------------------------------------------------------------------------
+**Action偶先的schedule任务失败的补救方法**
+
+修改BIT_Auto_Leave/.github/workflows/目录下的auto_leave.yaml文件，修改cron定时，尽量避免整点、整5分、整10分这类热门时间，因为github Action共用资源，挤在热门时间触发可能会引发脚本运行失败。不会修改的可以直接拷贝本仓库下的yaml文件，改定时为北京时间23:02。
