@@ -28,3 +28,11 @@ jobs:
         cp -r BIT_Auto_Leave/* .
         pip3 install -r requirements.txt
         python3 BIT_leave.py
+        
+    - name: Retry
+      uses: nick-fields/retry@v2
+      with:
+        timeout_seconds: 15
+        max_attempts: 3
+        retry_on: timeout
+        command: python3 BIT_leave.py
